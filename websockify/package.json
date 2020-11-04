@@ -16,8 +16,9 @@
     "node": ">=0.8.9"
   },
   "dependencies": {
-    "ws": ">=0.4.27",
-    "optimist": "latest",
-    "mime-types" : "latest"
+    "mime-types": "latest",
+    "optimist": "^0.6.1",
+    "policyfile": "0.0.6",
+    "ws": "^7.3.1"
   }
 }
